@@ -2,8 +2,8 @@
 Training Course for Build and Deploy Apps
 
 # Perkenalan 
-- Slide Memoora : https://www.canva.com/design/DAElHd-ZUoA/d_X0Bwr9b3vSmegfZpIc5g/view
-- Slide CMS Manajer : https://www.canva.com/design/DAElHeW5ATw/gkt3xkIvxOxL3zX99jeWUg/view
+- Slide Memoora (memoora.com): https://www.canva.com/design/DAElHd-ZUoA/d_X0Bwr9b3vSmegfZpIc5g/view
+- Slide CMS Manajer (cmsmanajer.com): https://www.canva.com/design/DAElHeW5ATw/gkt3xkIvxOxL3zX99jeWUg/view
 
 # Webinar
 ## Sistem Informasi Vaksin
