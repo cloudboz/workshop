@@ -8,7 +8,7 @@ Training Course for Build and Deploy Apps
 # Webinar
 ## Sistem Informasi Vaksin
 - Slide presentasi : https://www.canva.com/design/DAElHayKM1A/c01JW9YUfu4N1oqvXr66Yw/view
-- Source code : silakan buka `sources/sistem-informasi-vaksin`
+- Source code : silakan buka `sources/sistem-informasi-vaksin-php`
 
 # Komunitas
 - Telegram : https://t.me/joinchat/6ePVgJ6zphM4ZDA1
